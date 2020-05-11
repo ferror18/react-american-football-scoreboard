@@ -1,0 +1,7 @@
+Set up repo - | git clone &&cd&&cd Desktop &&cat quick\ commands.txt > Lambda\ School/lambda_assignments/Web_applications_1/introToReact/''/quickCommands.txt&&cd Lambda\ School/lambda_assignments/Web_applications_1/introToReact/''&&git checkout -b 'manuel'&&git add '.'&&git commit -m 'initial commit';git push origin manuel;code '.'&&exit |
+
+Other set up repo | git clone &&cd ''&&git fetch&& git reset --hard origin/lecture&& npm install&& npm start |
+
+Reset repo - | git fetch&& git reset --hard origin/lecture&& npm start |
+
+Save & push - | git add .&&git commit -m 'MVP'; git push origin manuel |
