@@ -4,4 +4,4 @@ Other set up repo | git clone &&cd ''&&git fetch&& git reset --hard origin/lectu
 
 Reset repo - | git fetch&& git reset --hard origin/lecture&& npm start |
 
-Save & push - | git add .&&git commit -m ''; git push origin manuel |
+Save & push - | git add .&&git commit -m 'MVP'; git push origin manuel |
